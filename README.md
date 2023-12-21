@@ -9,4 +9,5 @@ vybral jsem si otevírání dvířek dálkovým ovladačem
 # Průběh výroby + finální projekt
 
 # Materiál
-![Uploading 385544297_695350756056756_7053291121780435464_n.jpg…]()
+C:\Users\acer\Downloads\385544297_695350756056756_7053291121780435464_n.jpg
+
