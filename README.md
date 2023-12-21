@@ -3,6 +3,7 @@
 # Zadání
 vybral jsem si otevírání dvířek dálkovým ovladačem
 # Stav Projektu
+Rozpracovaná fáze projektu, mám odzkoušený základní funkce otvírání a zavírání dvířek pomocí motoru z vrtačky, kdy bude zavření a otevření dvířek ovládáno pomocí indukčního polohovacího snímače. V součastné době čekám až mi dorazí dálkový příjmače, abych mohl vše řídit dálkovým ovladačem. Potom vše usadím a naistaluji na přední stranu kurníku.
 
 # Schéma Zapojení
 ![ProfiCAD1](https://github.com/VojtasBase/Projekt/assets/154540614/8a5dda25-2a2b-4fc9-bc08-1fbf2a8a1973)
