@@ -19,4 +19,5 @@ můj tatka, strejda
 žádnou jsem nepoužil
 
 # Napodobení Finálního Projektu
-![ProfiCAD1](https://github.com/VojtasBase/Projekt/assets/154540614/bec0deea-d134-4f28-919d-40685779e570)
+![Snímek obrazovky 2023-12-21 181537](https://github.com/VojtasBase/Projekt/assets/154540614/15f48fba-23e8-4814-a91f-0afb48df0045)
+
