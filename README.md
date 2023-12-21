@@ -2,10 +2,10 @@
 
 # Zadání
 vybral jsem si otevírání dvířek dálkovým ovladačem
-### Stav Projektu
+# Stav Projektu
 
-#### schéma zapojení
+#schéma zapojení
 
-##### Průběh výroby + finální projekt
+# Průběh výroby + finální projekt
 
-###### Materiál
+# Materiál
