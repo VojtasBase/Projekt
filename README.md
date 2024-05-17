@@ -28,6 +28,8 @@ Pro ročníkovou práci jsem si vybral, reálné a funkční otevírání dvíř
 Ve druhém pololetí po dodání dálkového přijímače RX Multi pro ovládání, jsem počal s realizací projektu. Nejdříve jsem s pomocí taťky vytvořil maketu kurníku., na kterou jsem připevnil univerzální plastový box. V něm jsem udělal prostupy pro kabely ( zdroj, čidla,anténa,lanovod, motor) a následně připevnil kovovou lištu, na kterou jsem upevnil zdroj ABB CP-E 24V DC 5.0A , relátka, svorky. Na stranu boxu jsem upevnil dálkový přijímač RX Multi s anténou. Na spodní stranu boxu jsem upevnil motorek s hřídelkou. Vše jsem propojil a odzkoušel. Instalaci jsem konzultoval s panem Chudým. Při zkouškách jsem zjistil, že rychlost motorku je velká, takže jsem musel připojit odpor 56R aby otáčky byli optimální. Zastavení dvířek je pomocí indukčního polohovacího snímače na kov, kdy jsem na dvířka připevnil kovové plátky, které při dosažení snímače pohyb dvířek zastaví. Vše je ovládáno dálkovým přijímačem RX Multi. 
 
 # Schéma zapojení
+![image](https://github.com/VojtasBase/Projekt/assets/154540614/abfbcd82-cb7c-4b58-beaa-e16f8f165deb)
+
 # Fotografie
 ![image](https://github.com/VojtasBase/Projekt/assets/154540614/c32437bc-51b8-4c6c-ad69-bd50140929ec)
 
