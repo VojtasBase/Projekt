@@ -24,7 +24,7 @@ můj taťka, strejda
 
 # Druhé pololetí
 # Na jakém principu projekt funguje
-Pro ročníkovou práci jsem si vybral, reálné a funkční otevírání dvířek pro kurník. V pololetí jsem rozpracoval projekt tak abych odzkoušel základní funkce otevírání a zavírání dvířek pomocí motoru z vrtačky RS – 555 SH, kdy bylo zavírání a otevírání dvířek ovládáno pomocí indukčního polohovacího snímače na kov. 
+Pro ročníkovou práci jsem si vybral, reálné a funkční otevírání dvířek pro kurník. V pololetí jsem rozpracoval projekt, tak abych odzkoušel základní funkce otevírání a zavírání dvířek pomocí motoru z vrtačky RS – 555 SH, kdy bylo zavírání a otevírání dvířek ovládáno pomocí indukčního polohovacího snímače na kov. 
 Ve druhém pololetí po dodání dálkového přijímače RX Multi pro ovládání, jsem počal s realizací projektu. Nejdříve jsem s pomocí taťky vytvořil maketu kurníku., na kterou jsem připevnil univerzální plastový box. V něm jsem udělal prostupy pro kabely ( zdroj, čidla,anténa,lanovod, motor) a následně připevnil kovovou lištu, na kterou jsem upevnil zdroj ABB CP-E 24V DC 5.0A , relátka, svorky. Na stranu boxu jsem upevnil dálkový přijímač RX Multi s anténou. Na spodní stranu boxu jsem upevnil motorek s hřídelkou. Vše jsem propojil a odzkoušel. Instalaci jsem konzultoval s panem Chudým. Při zkouškách jsem zjistil, že rychlost motorku je velká, takže jsem musel připojit odpor 56R aby otáčky byli optimální. Zastavení dvířek je pomocí indukčního polohovacího snímače na kov, kdy jsem na dvířka připevnil kovové plátky, které při dosažení snímače pohyb dvířek zastaví. Vše je ovládáno dálkovým přijímačem RX Multi. 
 
 # Schéma zapojení
@@ -37,4 +37,4 @@ Ve druhém pololetí po dodání dálkového přijímače RX Multi pro ovládán
 # Předvedení funkčního řešení
 https://www.youtube.com/shorts/seAjK5PpsU4
 # Použitelnost v praxi
-Závěrem bych řekl, že se mi podařilo vytvořit reálné a funkční ovládání dvířek kurníkupomocí dálkového ovládání, které skutečně budeme používat.
+Závěrem bych řekl, že se mi podařilo vytvořit reálné a funkční ovládání dvířek kurníku pomocí dálkového ovládání, které skutečně budeme používat.
