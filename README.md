@@ -24,13 +24,17 @@ můj taťka, strejda
 
 # Druhé pololetí
 # Na jakém principu projekt funguje
-Cílem mého projektu bylo udělat otevírání dvířek na dálkové ovládání do kurníku. V prvním pololetí jsem si udělal funkční motorek. Ke konstrukci jsem použil elktromotorek, relé stykače a zdroj 24V. Základní funkce otvírání a zavírání dvířek pomocí motoru z vrtačky. Ve druhém pololetí jsem zapojil dálkový příjmač, kterým ovládám jestli se dvířka zvedají nebo jedou dolů. K tomu jsem umístil inkduční polohovací snímač a kovové drážky na dvířka, které když se dotknou inkdočního polohovacího símače, tak se dvířka zastaví
+Pro ročníkovou práci jsem si vybral, reálné a funkční otevírání dvířek pro kurník. V pololetí jsem rozpracoval projekt tak abych odzkoušel základní funkce otevírání a zavírání dvířek pomocí motoru z vrtačky RS – 555 SH, kdy bylo zavírání a otevírání dvířek ovládáno pomocí indukčního polohovacího snímače na kov. 
+Ve druhém pololetí po dodání dálkového přijímače RX Multi pro ovládání, jsem počal s realizací projektu. Nejdříve jsem s pomocí taťky vytvořil maketu kurníku., na kterou jsem připevnil univerzální plastový box. V něm jsem udělal prostupy pro kabely ( zdroj, čidla,anténa,lanovod, motor) a následně připevnil kovovou lištu, na kterou jsem upevnil zdroj ABB CP-E 24V DC 5.0A , relátka, svorky. Na stranu boxu jsem upevnil dálkový přijímač RX Multi s anténou. Na spodní stranu boxu jsem upevnil motorek s hřídelkou. Vše jsem propojil a odzkoušel. Instalaci jsem konzultoval s panem Chudým. Při zkouškách jsem zjistil, že rychlost motorku je velká, takže jsem musel připojit odpor 56R aby otáčky byli optimální. Zastavení dvířek je pomocí indukčního polohovacího snímače na kov, kdy jsem na dvířka připevnil kovové plátky, které při dosažení snímače pohyb dvířek zastaví. Vše je ovládáno dálkovým přijímačem RX Multi. 
 
 # Schéma zapojení
 # Fotografie
-![image](https://github.com/VojtasBase/Projekt/assets/154540614/8d1970a9-42d8-49d2-a84c-f0305c272db5)
+![image](https://github.com/VojtasBase/Projekt/assets/154540614/c32437bc-51b8-4c6c-ad69-bd50140929ec)
 
-![image](https://github.com/VojtasBase/Projekt/assets/154540614/0d0cc8fd-0de0-4943-875a-560ff7c61deb)
+![image](https://github.com/VojtasBase/Projekt/assets/154540614/cf9f4244-1d80-430c-afa2-cc4b7ba0439d)
+
 
 # Předvedení funkčního řešení
+https://www.youtube.com/shorts/seAjK5PpsU4
 # Použitelnost v praxi
+Závěrem bych řekl, že se mi podařilo vytvořit reálné a funkční ovládání dvířek kurníkupomocí dálkového ovládání, které skutečně budeme používat.
